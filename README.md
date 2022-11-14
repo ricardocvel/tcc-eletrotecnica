@@ -1,5 +1,4 @@
-# tcc eletrotécnica
-Repositório que hospeda meu tcc de eletrotécnica.
+# Trabalho de conclusão de curso de eletrotécnica 
 
 ## TELEMETRIA DE EQUIPAMENTO EM ÁREAS REMOTAS COM FOCO NA DIMINUIÇÃO DE CUSTOS DE IMPLANTAÇÃO E MANUTENÇÃO/OPERAÇÃO
 
